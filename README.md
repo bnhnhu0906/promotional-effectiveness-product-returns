@@ -20,7 +20,7 @@ Predictive models: Random Forest (AUC 0.787) and XGBoost (AUC 0.772) under 5-fol
 
 **Methods**
 
-StageApproachConfirmatoryLogistic regression across 5 model specifications with clustered standard errorsPredictiveRandom Forest and XGBoost with 5-fold cross-validationFeature importancePermutation-based ranking to identify dominant return predictors
+StageApproachConfirmatoryLogistic regression across 5 model specifications with clustered standard errors PredictiveRandom Forest and XGBoost with 5-fold cross-validationFeature importancePermutation-based ranking to identify dominant return predictors
 
 
 **Managerial Implications**
