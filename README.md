@@ -1,11 +1,11 @@
-#Promotional Effectiveness & Product Return Behaviour in Online Fashion Retail
-
+**Promotional Effectiveness & Product Return Behaviour in Online Fashion Retail
+**
 Master's Thesis — MSc Marketing Analytics and Data Science, University of Groningen (2026)
 
 Tools: Python (Pandas, Scikit-learn, Statsmodels, Matplotlib, Seaborn)
 
 
-##Overview
+**Overview**
 
 This study investigates how two promotional instruments — item-level discount depth and order-level coupon usage — affect product return probability in online fashion retail, and whether fashion level and customer store-shopping frequency moderate these relationships.
 
