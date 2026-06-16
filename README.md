@@ -31,4 +31,15 @@ This study investigates how two promotional instruments — item-level discount 
 
 ---
 
-## Repository Structure
+---
+
+## Managerial Implications
+
+- Retailers can differentiate promotional instruments based on return risk rather than treating all discounts as equally risky
+- CRM-based customer segmentation (by purchase frequency) is a more actionable lever for reducing return costs than promotional design alone
+
+---
+
+## Note on Data
+
+The dataset is proprietary and not included in this repository. The notebook documents the full analytical pipeline including data cleaning, feature engineering, model building, and robustness checks.
